@@ -146,7 +146,6 @@
     .blog-container {
         width: 90%;
         height: 70vh;
-        border: 1px solid white;
         z-index: 15;
 
     }
@@ -207,7 +206,6 @@
         flex-wrap: wrap;
         height: 70vh;
         overflow: hidden;
-        border: 1px solid greenyellow;
     }
 }
 
